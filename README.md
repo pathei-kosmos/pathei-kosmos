@@ -1,8 +1,8 @@
 ## Projects
-- [Kryfos](https://github.com/pathei-kosmos/kryfos) / Chat with Node.js, MongoDB, EJS and WebSocket 
+- [Kryfos](https://github.com/pathei-kosmos/kryfos) / Chat made with Node.js, MongoDB, EJS and WebSocket 
 - [pokemons-rolodex](https://github.com/pathei-kosmos/pokemons-rolodex) / Rolodex of pokemons made in React
-- [node-blog](https://github.com/pathei-kosmos/node-blog) / Blog with Node.js, MongoDB and EJS
-- [PokemonVue](https://github.com/pathei-kosmos/PokemonVue) / Pokemon battle with Vue.js
+- [node-blog](https://github.com/pathei-kosmos/node-blog) / Blog made with Node.js, MongoDB and EJS
+- [PokemonVue](https://github.com/pathei-kosmos/PokemonVue) / Pokemon battle made with Vue.js
 
 
 ## Contributions to open source projects
