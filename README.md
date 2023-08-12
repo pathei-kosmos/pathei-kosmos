@@ -5,7 +5,7 @@
 - [PokemonVue](https://github.com/pathei-kosmos/PokemonVue) / Pokemon battle made with Vue.js
 
 
-## Contributions to open source
+## Contributions
 - [Bun.sh](https://github.com/oven-sh/bun/pull/758) / Correction of dependency licenses
 - [Mongoose](https://github.com/Automattic/mongoose/pull/12112) / Security against NoSQL injections, documentation update
 - [Privacy-Anonymity-Compartmentalization](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/pull/1) / Hardening Windows Sandbox security
