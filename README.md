@@ -1,6 +1,7 @@
 # :cloud: Azure DevOps Engineer
 
 ## Projects
+- [TF-Lab-104](https://github.com/pathei-kosmos/tf-lab-04) / Terraform automated Lab deployment on Azure Cloud
 - [Kryfos](https://github.com/pathei-kosmos/kryfos) / Secure chat made with Node.js, MongoDB, EJS and WebSocket 
 - [pokemons-rolodex](https://github.com/pathei-kosmos/pokemons-rolodex) / Rolodex of pokemons made in React
 - [node-blog](https://github.com/pathei-kosmos/node-blog) / Blog made with Node.js, MongoDB and EJS
