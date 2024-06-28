@@ -1,4 +1,4 @@
-# :cloud: Azure DevOps Engineer
+# :cloud: Azure DevSecOps Engineer
 
 ## Projects
 - [TF-Lab-04](https://github.com/pathei-kosmos/tf-lab-04) / Terraform automated Lab deployment on Azure
@@ -16,5 +16,5 @@
 
 
 <p align="right">
-  <img width="200" alt="Microsoft Azure Az-104 certification badge." src="./az-104.png">
+  <img height="200" alt="Microsoft Azure Az-104 and Microsoft Azure Az-500 certification badges." src="./badges.png">
 </p>
