@@ -1,6 +1,7 @@
 # :cloud: Azure DevSecOps Engineer
 
 ## Projects
+- [Ansinetes](https://github.com/pathei-kosmos/ansinetes) / Automated deployment of a nginx cluster with Terraform and Ansible
 - [TF-Lab-04](https://github.com/pathei-kosmos/tf-lab-04) / Terraform automated Lab deployment on Azure
 - [Kryfos](https://github.com/pathei-kosmos/kryfos) / Secure chat made with Node.js, MongoDB, EJS and WebSocket 
 - [pokemons-rolodex](https://github.com/pathei-kosmos/pokemons-rolodex) / Rolodex of pokemons made in React
