@@ -12,8 +12,8 @@
 ## Contributions
 - [Privacy-Anonymity-Compartmentalization](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/pull/1) / Hardening Windows Sandbox security
 - [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security/issues/63) / [[+]](https://github.com/HotCakeX/Harden-Windows-Security/commit/f3cdf0c2333c6317685e65282305e6daee4a3c89) / Security against an attack on AMD's fTPM implementation
-- [Bun.sh](https://github.com/oven-sh/bun/pull/758) / Correction of dependency licenses
 - [Mongoose](https://github.com/Automattic/mongoose/pull/12112) / Security against NoSQL injections, documentation update
+- [Bun.sh](https://github.com/oven-sh/bun/pull/758) / Correction of dependency licenses
 
 
 <p align="right">
