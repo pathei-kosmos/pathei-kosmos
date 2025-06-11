@@ -1,4 +1,4 @@
-# :cloud: Azure DevSecOps Engineer
+# :cloud: Azure Security Architect
 
 ## Projects
 - [ghoney](https://github.com/pathei-kosmos/ghoney) / A minimalist HTTP canary honeypot server written in Go
