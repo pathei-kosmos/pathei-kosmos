@@ -11,6 +11,7 @@
 
 
 ## Contributions
+- [Azure SDK for Rust](https://github.com/Azure/azure-sdk-for-rust/pull/4548) / Test proxy sanitizer configuration and serialization fix
 - [Privacy-Anonymity-Compartmentalization](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/pull/1) / Hardening Windows Sandbox security
 - [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security/issues/63) / [[+]](https://github.com/HotCakeX/Harden-Windows-Security/commit/f3cdf0c2333c6317685e65282305e6daee4a3c89) / Security against an attack on AMD's fTPM implementation
 - [Mongoose](https://github.com/Automattic/mongoose/pull/12112) / Security against NoSQL injections, documentation update
