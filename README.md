@@ -3,12 +3,7 @@
 ## Projects
 - [ghoney](https://github.com/pathei-kosmos/ghoney) / A minimalist HTTP canary honeypot server written in Go
 - [Ansinetes](https://github.com/pathei-kosmos/ansinetes) / Automated deployment of a nginx cluster with Terraform and Ansible
-- [TF-Lab-04](https://github.com/pathei-kosmos/tf-lab-04) / Terraform automated Lab deployment on Azure
 - [Kryfos](https://github.com/pathei-kosmos/kryfos) / Secure chat made with Node.js, MongoDB, EJS and WebSocket 
-- [pokemons-rolodex](https://github.com/pathei-kosmos/pokemons-rolodex) / Rolodex of pokemons made in React
-- [node-blog](https://github.com/pathei-kosmos/node-blog) / Blog made with Node.js, MongoDB and EJS
-- [PokemonVue](https://github.com/pathei-kosmos/PokemonVue) / Pokemon battle made with Vue.js
-
 
 ## Contributions
 - [Azure SDK for Rust](https://github.com/Azure/azure-sdk-for-rust/pull/4548) / Test proxy sanitizer configuration and serialization fix
