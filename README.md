@@ -1,7 +1,7 @@
 # :cloud: Azure Cloud Engineer
 
 ## Projects
-- [ghoney](https://github.com/pathei-kosmos/ghoney) / A minimalist HTTP canary honeypot server written in Go
+- [ghoney](https://github.com/pathei-kosmos/ghoney) / A minimalist HTTP canary honeypot written in Go
 - [Ansinetes](https://github.com/pathei-kosmos/ansinetes) / Automated deployment of a nginx cluster with Terraform and Ansible
 - [Kryfos](https://github.com/pathei-kosmos/kryfos) / Secure chat made with Node.js, MongoDB, EJS and WebSocket 
 
