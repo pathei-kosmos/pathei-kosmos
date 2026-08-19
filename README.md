@@ -14,5 +14,5 @@
 
 
 <p align="right">
-  <img height="200" alt="Microsoft Azure Az-104 and Microsoft Azure Az-500 certification badges." src="./badges.png">
+  <img height="200" alt="Microsoft Azure Az-104, Microsoft Azure Az-500 and Microsoft Azure Az-305 certification badges." src="./badges.png">
 </p>
