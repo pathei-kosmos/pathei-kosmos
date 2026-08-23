@@ -2,7 +2,7 @@
 
 ## Projects
 - [ghoney](https://github.com/pathei-kosmos/ghoney) / A minimalist HTTP canary honeypot written in Go
-- [Ansinetes](https://github.com/pathei-kosmos/ansinetes) / Automated deployment of a nginx cluster with Terraform and Ansible
+- [Ansinetes](https://github.com/pathei-kosmos/ansinetes) / Automated nginx deployment on Azure with Terraform and Ansible
 - [Kryfos](https://github.com/pathei-kosmos/kryfos) / Secure chat made with Node.js, MongoDB, EJS and WebSocket 
 
 ## Contributions
