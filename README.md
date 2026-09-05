@@ -5,13 +5,14 @@
 - [Ansinetes](https://github.com/pathei-kosmos/ansinetes) / Automated nginx deployment on Azure with Terraform and Ansible
 - [Kryfos](https://github.com/pathei-kosmos/kryfos) / Secure chat made with Node.js, MongoDB, EJS and WebSocket 
 
-## Contributions
-- [Pulumi](https://github.com/pulumi/pulumi/pull/24383) / Checkpoint durability during compression transitions 
+## Selected open-source contributions
+
+- [Pulumi](https://github.com/pulumi/pulumi/pull/24383) / Checkpoint durability during compression transitions
+- [Pester](https://github.com/pester/Pester/pull/3020) / Internal runner failure and exit-code handling
 - [Azure SDK for Rust](https://github.com/Azure/azure-sdk-for-rust/pull/4548) / Test proxy sanitizer configuration and serialization fix
 - [Azure kubelogin](https://github.com/Azure/kubelogin/pull/760) / Authentication cache cleanup failure handling
-- [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security/issues/63) / [[+]](https://github.com/HotCakeX/Harden-Windows-Security/commit/f3cdf0c2333c6317685e65282305e6daee4a3c89) / Security against an attack on AMD's fTPM implementation
-- [Mongoose](https://github.com/Automattic/mongoose/pull/12112) / Security against NoSQL injections, documentation update
-- [Bun.sh](https://github.com/oven-sh/bun/pull/758) / Correction of dependency licenses
+- [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security/issues/63) / Security hardening for AMD fTPM attack scenarios
+- [Mongoose](https://github.com/Automattic/mongoose/pull/12112) / NoSQL injection security documentation
 
 
 <p align="right">
