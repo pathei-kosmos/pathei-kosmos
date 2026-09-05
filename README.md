@@ -5,7 +5,7 @@
 - [Ansinetes](https://github.com/pathei-kosmos/ansinetes) / Automated nginx deployment on Azure with Terraform and Ansible
 - [Kryfos](https://github.com/pathei-kosmos/kryfos) / Secure chat made with Node.js, MongoDB, EJS and WebSocket 
 
-## Selected open-source contributions
+## Contributions
 
 - [Pulumi](https://github.com/pulumi/pulumi/pull/24383) / Checkpoint durability during compression transitions
 - [Pester](https://github.com/pester/Pester/pull/3020) / Internal runner failure and exit-code handling
